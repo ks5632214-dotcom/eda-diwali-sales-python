@@ -60,8 +60,6 @@ This project addresses these challenges using data analysis and visualization.
 
 (Add your screenshots below after uploading images)
 
-## 📸 Sample Visualizations
-
 ![Sales by State](<img width="1484" height="484" alt="sales_by_state" src="https://github.com/user-attachments/assets/1cc58b4c-3c26-42f7-86ae-87e9a63d7e16" />
 )
 
