@@ -58,21 +58,15 @@ This project addresses these challenges using data analysis and visualization.
 
 ## 8. Sample Visualizations
 
-(Add your screenshots below after uploading images)
+![Sales by State](https://github.com/user-attachments/assets/1cc58b4c-3c26-42f7-86ae-87e9a63d7e16)
 
-![Sales by State](<img width="1484" height="484" alt="sales_by_state" src="https://github.com/user-attachments/assets/1cc58b4c-3c26-42f7-86ae-87e9a63d7e16" />
-)
+![Sales by Gender](https://github.com/user-attachments/assets/e4defb74-d8f2-4176-86c7-e66335e41e09)
 
-![Sales by Gender](<img width="1484" height="484" alt="sales_by_gender" src="https://github.com/user-attachments/assets/e4defb74-d8f2-4176-86c7-e66335e41e09" />
-)
+![Sales by Age](https://github.com/user-attachments/assets/6b88d33d-0c11-4f38-9286-7babaa03c4f3)
 
-![Sales by Age](<img width="1484" height="484" alt="sales_by_age" src="https://github.com/user-attachments/assets/6b88d33d-0c11-4f38-9286-7babaa03c4f3" />
-)
+![Top Categories](https://github.com/user-attachments/assets/e9b1a44b-9063-4c33-b262-e85350d702c8)
 
-![Top Categories](<img width="1984" height="484" alt="top_product_category" src="https://github.com/user-attachments/assets/e9b1a44b-9063-4c33-b262-e85350d702c8" />)
-
-![Sales by Occupation](<img width="1984" height="484" alt="sales_by_occupation" src="https://github.com/user-attachments/assets/9d59e4d0-9473-4d9c-a4e7-51f1ca5f4e3f" />
-)
+![Sales by Occupation](https://github.com/user-attachments/assets/9d59e4d0-9473-4d9c-a4e7-51f1ca5f4e3f)
 
 ## 9. Project Outcome
 
